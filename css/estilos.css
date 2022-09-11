@@ -1,0 +1,107 @@
+body {
+    background-color: #fff;
+    font-family: 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Light', Helvetica, Arial , Verdana, sans-serif;
+}
+
+header {
+    margin-left: 50px;
+    margin-right: 50px;
+    
+}
+nav ul li {
+    display: inline-block;
+}
+
+nav ul li a {
+    text-decoration: none;
+    padding: 12px;
+    color: #2481cc;
+}
+
+h1 { 
+    font-size: 28px;
+    color: #383a3b;
+    text-align: center;
+    margin-top: 32px;
+    margin-bottom: 14px;
+    font-weight: normal;
+    letter-spacing: -1px;
+}
+
+h1 a {
+    text-decoration: none;
+    color: #383a3b;
+}
+
+.derecha {
+    padding-left: 650px;
+}
+
+#hrPersonalizado {
+    border: none;
+    height: 0.5px;
+    background-color: rgb(230, 230, 230);
+    color:  rgb(236, 236, 236);
+    
+}
+
+.container {
+    max-width: 1400px;
+    margin: auto;
+    text-align: center;
+}
+#imgDesktop {
+    margin-top: 40px;
+    max-width: 420px;
+    max-height: 243.5px;
+}
+
+#parrH1 {
+    font-size: 17px;
+    margin: 0 auto;
+    color: #67696a;
+    margin: 14px 10px 24px;
+    font-weight: 300;
+}
+
+.linkCopados {
+    text-decoration: none;
+    color:  #2481cc;
+}
+
+button {
+    display: inline-block;
+    vertical-align: top;
+    font-weight: normal;
+    text-align: center;
+    vertical-align: middle;
+    cursor: pointer;
+    background-image: none;
+    white-space: nowrap;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    color: #fff;
+    border-color: #357ebd;
+    padding: 10px 14px;
+    min-width: 266px;
+    font-size: 15px;
+    line-height: 2;
+    border-radius: 30px;
+    background-color: #1d98dc;
+    margin: 5px 10px;
+}
+
+footer {
+    margin-top: 60px;
+    text-align: center;
+}
+
+.parraGris {
+    font-size: 17px;
+    margin: 0 auto;
+    color: #67696a;
+    margin: 14px 10px 24px;
+    font-weight: 300;
+}
